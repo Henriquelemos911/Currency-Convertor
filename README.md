@@ -48,7 +48,7 @@
 
 3. **Navigate to the folder where your file is located**:
    ```bash
-   cd C:\path	o\yourile
+   cd C:\path\to\your\file
    ```
 
 4. **Run the code**:
